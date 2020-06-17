@@ -1,0 +1,79 @@
+{
+  "id": "1839002",
+  "name": "icons",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "485763",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4608979",
+      "name": "缓存",
+      "font_class": "huancun",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9241131",
+      "name": "分享",
+      "font_class": "iconzhengli_fenxiang",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "1754539",
+      "name": "播视web_播放量",
+      "font_class": "boshiweb_bofangliang",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "4251748",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1066849",
+      "name": "数据",
+      "font_class": "data",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "2325949",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "5390964",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "7832285",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "12659668",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
